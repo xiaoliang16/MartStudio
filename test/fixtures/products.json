@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "sku": "SKU-1001",
+      "name": "云柔亲肤婴儿纸尿裤 L码 44片",
+      "category": "母婴-纸尿裤",
+      "brand": "云柔",
+      "price": 89.9,
+      "originalPrice": 129.0,
+      "params": { "材质": "热风无纺布", "适用体重": "9-14kg" },
+      "sellingPoints": ["瞬时吸收不反渗", "全域透气腰围"]
+    },
+    {
+      "sku": "SKU-9001",
+      "name": "丝绒哑光口红 03 号",
+      "category": "美妆-口红",
+      "params": {},
+      "sellingPoints": []
+    },
+    {
+      "sku": "SKU-3002",
+      "name": "雪松无火香薰补充装 150ml",
+      "category": "家居-香薰",
+      "brand": "栖谷",
+      "params": { "容量": "150ml", "留香时长": "约 45 天" },
+      "sellingPoints": ["植物精油基底", "无明火更安心"]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+categories:
+  通用:
+    tone: 专业、清晰、可信
+    structure: [吸引开头, 卖点展开, 参数背书, 行动引导]
+  母婴-纸尿裤:
+    tone: 温柔安心、像有经验的妈妈在分享
+    structure: [痛点场景, 核心卖点, 参数背书, 信任状, 行动引导]
+    vocabulary:
+      use: [亲肤, 锁水, 安心]
+      avoid: [最, 第一, 100%]
+    example: |
+      夜里换纸尿裤最怕吵醒宝宝?云柔系列瞬时吸收不反渗。
+
+scenarios:
+  everyday:
+    name: 日常销售
+    hints: [日常, 详情页]
+    rules: [卖点清晰, 使用场景种草, 不提促销]
+  month_end_promo:
+    name: 月底冲量
+    hints: [月底, 冲量]
+    rules: [倒计时紧迫感, 满减置顶]
+    example: |
+      【月底最后3天】立减40元,拍完即止
+  regular_discount:
+    name: 平时打折
+    hints: [打折, 折扣]
+    rules: [性价比叙事, 原价锚点]

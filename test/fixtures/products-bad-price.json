@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "sku": "SKU-1",
+      "name": "价格为字符串",
+      "category": "测试",
+      "price": "89.9",
+      "params": {},
+      "sellingPoints": []
+    }
+  ]
+}

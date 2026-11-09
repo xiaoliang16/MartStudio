@@ -1,0 +1,10 @@
+# 测试夹具:hints 里含未加引号的数字(618 会被 YAML 解析成 number),加载时应抛错。
+categories:
+  测试品类:
+    tone: 测试
+    structure: [开头, 结尾]
+scenarios:
+  demo:
+    name: 测试场景
+    hints: [618, x]
+    rules: [y]

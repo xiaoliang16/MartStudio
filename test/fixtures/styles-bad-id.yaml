@@ -1,0 +1,4 @@
+categories:
+  通用: { tone: x, structure: [a] }
+scenarios:
+  Bad-ID: { name: x, hints: [x], rules: [x] }

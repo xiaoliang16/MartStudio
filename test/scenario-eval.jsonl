@@ -1,0 +1,18 @@
+{"text":"给 SKU-1001 写一篇日常文案","expected":"everyday"}
+{"text":"SKU-1001 打 8 折,写个推广文案","expected":"regular_discount"}
+{"text":"月底冲量,纸尿裤来一篇","expected":"month_end_promo"}
+{"text":"双11 主会场要一篇预热文案","expected":"mega_sale"}
+{"text":"618 年中大促详情页","expected":"mega_sale"}
+{"text":"新品首发,写个上架文案","expected":"new_launch"}
+{"text":"预售定金膨胀那波,来篇文案","expected":"pre_sale"}
+{"text":"清仓甩卖,断码尾货写一篇","expected":"clearance"}
+{"text":"中秋送礼礼盒装文案","expected":"festival"}
+{"text":"会员日专享价文案","expected":"membership"}
+{"text":"小红书种草笔记,纸尿裤","expected":"seeding"}
+{"text":"打骨折清库存","expected":"clearance"}
+{"text":"年底最后三天冲量","expected":"month_end_promo"}
+{"text":"母亲节感恩礼赠","expected":"festival"}
+{"text":"老客召回专享文案","expected":"membership"}
+{"text":"写篇普通的详情页介绍","expected":"everyday"}
+{"text":"下月新品尝鲜预售","expected":"pre_sale"}
+{"text":"周年庆全场大促","expected":"mega_sale"}

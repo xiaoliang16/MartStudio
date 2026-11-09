@@ -1,0 +1,26 @@
+{
+  "name": "mini-openclaw",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "tsx src/index.ts",
+    "demo": "tsx scripts/demo.ts",
+    "demo:copy": "tsx scripts/demo-copy.ts",
+    "eval:scenario": "tsx scripts/scenario-eval.ts",
+    "test": "tsx --test \"test/**/*.test.ts\"",
+    "typecheck": "tsc --noEmit"
+  },
+  "type": "module",
+  "dependencies": {
+    "@earendil-works/pi-agent-core": "^1.4.0",
+    "@earendil-works/pi-ai": "^1.4.0",
+    "@earendil-works/pi-coding-agent": "^1.4.0",
+    "typebox": "^1.4.3",
+    "yaml": "^2.9.1"
+  },
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}

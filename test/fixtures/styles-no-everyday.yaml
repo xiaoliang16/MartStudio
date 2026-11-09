@@ -1,0 +1,2 @@
+scenarios:
+  daily_routine: { name: 日常, hints: [日常], rules: [按常规写] }

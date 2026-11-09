@@ -1,0 +1,6 @@
+{
+  "products": [
+    { "sku": "SKU-1", "name": "第一个", "category": "测试", "params": {}, "sellingPoints": [] },
+    { "sku": "SKU-1", "name": "重复 SKU", "category": "测试", "params": {}, "sellingPoints": [] }
+  ]
+}
